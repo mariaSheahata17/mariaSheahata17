@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Take a look at my projects Demon!
+### Take a look at some of my projects Demo!
 
 
 
