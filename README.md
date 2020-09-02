@@ -2,8 +2,11 @@
 
 ### Take a look at my projects Demon!
 
-![TippyGif](https://user-images.githubusercontent.com/49815957/91647215-1d552e80-ea26-11ea-915b-73fdd94959a2.gif)
 
+
+| Tipp Caclultor  | Delivery App | Flix: Movie Theater |
+| ------------- | ------------- |---------------|
+| ![TippyGif](https://user-images.githubusercontent.com/49815957/91647215-1d552e80-ea26-11ea-915b-73fdd94959a2.gif) | ![Tippy2](https://user-images.githubusercontent.com/49815957/87888496-33210e00-c9fb-11ea-9e01-9654e87a293f.jpg)  | ![Tippy3](https://user-images.githubusercontent.com/49815957/87888501-36b49500-c9fb-11ea-82c4-2260a0d973a3.jpg)
 <!--
 **mariaSheahata17/mariaSheahata17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
