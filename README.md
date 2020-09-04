@@ -4,9 +4,9 @@
 
 
 
-| Tipp Caclultor  | Delivery App | Flix: Movie Theater |
+| Tipp Caclultor  |Flix: Movie Theater  | Delivery App|
 | ------------- | ------------- |---------------|
-| ![TippyGif](https://user-images.githubusercontent.com/49815957/91647215-1d552e80-ea26-11ea-915b-73fdd94959a2.gif) | ![Screen Shot 2020-07-19 at 11 49 53 PM](https://user-images.githubusercontent.com/49815957/87898300-cec27680-ca1b-11ea-8d3f-47e4f5d6e7de.png)  | 
+| ![TippyGif](https://user-images.githubusercontent.com/49815957/91647215-1d552e80-ea26-11ea-915b-73fdd94959a2.gif) | |![Screen Shot 2020-07-19 at 11 49 53 PM](https://user-images.githubusercontent.com/49815957/87898300-cec27680-ca1b-11ea-8d3f-47e4f5d6e7de.png)  | 
 <!--
 **mariaSheahata17/mariaSheahata17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
