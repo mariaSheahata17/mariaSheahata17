@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 😃 👋
 
 ### Take a look at some of my projects Demo!
 
