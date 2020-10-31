@@ -12,7 +12,7 @@
 
 |  Twitter 2  | | |
 | ------------- | ------------- |---------------|
-| <img src='https://recordit.co/3658Dqrd4F.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />|| ||
+|<img src='http://g.recordit.co/PKq0RMj4sn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />|| ||
 
 ### iOS Delivery App design using sketch
 ||||||
