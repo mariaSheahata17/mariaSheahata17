@@ -10,9 +10,10 @@
 
 
 
-|  Twitter 2  | | |
+|  Twitter 2  | Instagram| |
 | ------------- | ------------- |---------------|
-|<img src='http://g.recordit.co/PKq0RMj4sn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />|| ||
+|<img src='http://g.recordit.co/PKq0RMj4sn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />|<img src='http://g.recordit.co/E3PaQLBC0Z.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+| ||
 
 ### iOS Delivery App design using sketch
 ||||||
