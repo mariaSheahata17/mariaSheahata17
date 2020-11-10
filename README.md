@@ -31,6 +31,7 @@ I am a rising senior majoring in Computer Science. 💻
 I enjoy iOS mobile development!📱
 I make it my goal to create software with the user in mind, creating applications with a useable and intuitive user interface experience. 🤩
 I am constantly striving to learn new technologies and look to ways to better myself in this rapidly changing industry.
+- 🌱 I’m currently learning flutter and android mobile development.
 
 ### 📫 How to reach me: https://www.linkedin.com/in/mariashehata/
 #### 👇  I’m currently working on my website!  
@@ -41,7 +42,7 @@ I am constantly striving to learn new technologies and look to ways to better my
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
