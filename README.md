@@ -4,15 +4,15 @@
 
 
 
-|  Twitter  |Flix: Movie Theater  | Tip Caclultor|
+|  Twitter  |Flix: Movie Theater  | Twitter 2|
 | ------------- | ------------- |---------------|
-| <img src='https://recordit.co/3658Dqrd4F.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> |![flix4](https://user-images.githubusercontent.com/49815957/93291640-a05ddf00-f7b1-11ea-8b7d-868493acd757.gif) |![TippyGif](https://user-images.githubusercontent.com/49815957/91647215-1d552e80-ea26-11ea-915b-73fdd94959a2.gif)|
+| <img src='https://recordit.co/3658Dqrd4F.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> |![flix4](https://user-images.githubusercontent.com/49815957/93291640-a05ddf00-f7b1-11ea-8b7d-868493acd757.gif) |<img src='http://g.recordit.co/PKq0RMj4sn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />|
 
 
 
-|  Twitter 2  | Instagram| Agency Maker Web App|
+|  Tip Caclultor  | Instagram| Agency Maker Web App|
 | ------------- | ------------- |---------------|
-|<img src='http://g.recordit.co/PKq0RMj4sn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />|<img src='http://g.recordit.co/E3PaQLBC0Z.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />|<img src='https://recordit.co/L67WhrL8zj.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> ||
+|![TippyGif](https://user-images.githubusercontent.com/49815957/91647215-1d552e80-ea26-11ea-915b-73fdd94959a2.gif)|<img src='http://g.recordit.co/E3PaQLBC0Z.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />|<img src='https://recordit.co/L67WhrL8zj.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> ||
 
 ## iOS Delivery App design using sketch
 ||||||
