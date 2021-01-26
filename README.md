@@ -34,6 +34,7 @@ I am constantly striving to learn new technologies and look to ways to better my
 - 🌱 I’m currently learning flutter mobile development.
 
 ### 📫 How to reach me: https://www.linkedin.com/in/mariashehata/
+- 😄 Pronouns: She / Her
 #### 👇 My website!  
  mariasheahata17.devport.co
 
