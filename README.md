@@ -26,7 +26,7 @@
 
 
 
-## About me 😃
+## 😃 About me  
 I am a rising senior majoring in Computer Science. 💻
 I enjoy iOS mobile development!📱
 I make it my goal to create software with the user in mind, creating applications with a useable and intuitive user interface experience. 🤩
