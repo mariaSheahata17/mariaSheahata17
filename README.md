@@ -28,7 +28,7 @@
 
 ## 😃 About me  
 I am a rising senior majoring in Computer Science. 💻
-I enjoy iOS mobile development!📱
+I enjoy mobile development!📱
 I make it my goal to create software with the user in mind, creating applications with a useable and intuitive user interface experience. 🤩
 I am constantly striving to learn new technologies and look to ways to better myself in this rapidly changing industry.
 - 🌱 I’m currently learning flutter mobile development.
